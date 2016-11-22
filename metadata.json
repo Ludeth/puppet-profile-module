@@ -1,0 +1,15 @@
+{
+  "name": "profile-storage",
+  "version": "0.0.1",
+  "author": "Ed Shorrock",
+  "summary": "Store OS X Profiles for deployment",
+  "license": "MIT",
+  "source": "https://github.com/Ludeth/puppet-profile-module",
+  "project_page": "https://github.com/Ludeth/puppet-profile-module",
+  "issues_url": "https://github.com/Ludeth/puppet-profile-module/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
